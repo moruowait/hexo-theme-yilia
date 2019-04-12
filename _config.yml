@@ -10,7 +10,7 @@ subnav:
   #weibo: "#"
   #rss: "#"
   #zhihu: "#"
-  qq: "285599633@qq.com"
+  qq: "tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=285599633&website=www.oicqzone.com"
   #weixin: "#"
   #jianshu: "#"
   #douban: "#"
@@ -65,10 +65,10 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: /favicon.png
+favicon: img/favicon.jpeg
 
 #你的头像url
-avatar:
+avatar: img/avatar.jpeg
 
 #是否开启分享
 share_jia: true
